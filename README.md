@@ -15,9 +15,12 @@
 本文首发于我的github：[闲暇的思考](https://github.com/BigShuang/little-thinking)
 
 为了方便扩散，让更多人看到，
+
 计划会先搬到我的简书：[https://www.jianshu.com/nb/48973502](https://www.jianshu.com/nb/48973502)
+
 看情况再搬到我的知乎：
-再看情况搬到我的b站：
+
+再看情况搬到我的b站专栏：
 
 
 内容都放在`content`文件夹中
